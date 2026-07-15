@@ -10,7 +10,7 @@ The app has separate interfaces for drivers and administrators and supports mult
 
 A pre-built Android APK is available for testing.
 
-[Download ParkSmart for Android](https://github.com/NICKSTER0506/ParkSmart/releases/latest/download/parksmart_final.apk)
+[Download ParkSmart for Android](https://github.com/NICKSTER0506/ParkSmart/releases/latest/download/ParkSmart.apk)
 
 ---
 
