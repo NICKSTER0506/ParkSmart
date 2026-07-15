@@ -228,4 +228,12 @@ The IoT simulator was added to test how the same application architecture could 
 
 ---
 
+## Contributors
+
+- [@NICKSTER0506](https://github.com/NICKSTER0506)
+- [@nagarajgmcs24](https://github.com/nagarajgmcs24)
+- [@nagarjuncs24-creator](https://github.com/nagarjuncs24-creator)
+
+---
+
 **Built to make parking in Bengaluru a little less painful.**
