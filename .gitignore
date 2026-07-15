@@ -1,0 +1,63 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+npm-debug.log*
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+google-services.json
+GoogleService-Info.plist
+web-build/
+.env
+.env.local
+.env.*.local
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.vscode/
+.idea/
+src/config/env.js
+src/config/secrets.js
+scripts/serviceAccountKey.json
+scripts/*_cache.json
+
+# Native Generated Folders (Expo Prebuild)
+android/
+ios/
+
+# Build output and logs
+bundle_error.log
+*.apk
+
+# Debug and temporary scripts
+test_db.js
+test_map.html
+fix_admins.js
+
+# Database dumps (Highly sensitive)
+database_export.json
+
+# Legacy Unused Files
+src/screens/LoginScreen.js
+src/screens/RegisterScreen.js
+src/screens/HistoryScreen.js
+src/screens/TicketScreen.js
+src/screens/TicketScreen.web.js
+src/config/stripe.js
+src/config/theme.js
+src/services/payment.js
+
+# One-off Dev Scripts
+scripts/check_admin.js
+scripts/fetch_data.js
+scripts/fetch_urls.js
+scripts/fix_padding.js
+scripts/resolve_urls.py
+structure.txt
